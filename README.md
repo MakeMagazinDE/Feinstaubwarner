@@ -6,7 +6,7 @@ Maker Media GmbH
 
 # Optimale Lichtverhältnisse
 
-** Ein tragbares Luftqualitätsmessgerät für den Arbeitsplatz hilft bei der Einschätzung, ob und wie viel Feinstäube die Gesundheit belasten könnten. **
+**Ein tragbares Luftqualitätsmessgerät für den Arbeitsplatz hilft bei der Einschätzung, ob und wie viel Feinstäube die Gesundheit belasten könnten.**
 
 ![Aufmacherbild aus dem Heft](https://github.com/MakeMagazinDE/Feinstaubwarner/blob/main/Warner.jpg)
 
