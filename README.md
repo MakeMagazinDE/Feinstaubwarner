@@ -8,6 +8,8 @@ Maker Media GmbH
 
 ** Ein tragbares Luftqualitätsmessgerät für den Arbeitsplatz hilft bei der Einschätzung, ob und wie viel Feinstäube die Gesundheit belasten könnten. **
 
+![Aufmacherbild aus dem Heft](https://github.com/MakeMagazinDE/Feinstaubwarner/blob/main/Warner.jpg)
+
 In diesem Repository liegen die 3D-Druckdaten, Code und Materialliste.
 
 Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 6/26](https://www.heise.de/select/make/2026/6)**.
